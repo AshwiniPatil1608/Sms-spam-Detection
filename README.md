@@ -1,4 +1,4 @@
-1.Build a model that can identify spam emails.
+ 1.Build a model that can identify spam emails.
 
 2. NLP is utilized to identify patterns and keywords that characterize spammy content.
 
